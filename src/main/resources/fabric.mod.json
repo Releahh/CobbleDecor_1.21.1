@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "cobbledecor",
+	"version": "${version}",
+	"name": "CobbleDecor",
+	"description": "Cobblemon inspired furniture, paintings and more.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://releah.net/",
+		"sources": "https://github.com/Releahh/CobbleDecor_1.21.1"
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/cobbledecor/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.releah.cobbledecor.CobbleDecor"
+		],
+		"fabric-datagen": [
+			"net.releah.cobbledecor.CobbleDecorDataGenerator"
+		],
+		"client": [
+			"net.releah.cobbledecor.CobbleDecorClient"
+		]
+	},
+	"mixins": [
+		"cobbledecor.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
