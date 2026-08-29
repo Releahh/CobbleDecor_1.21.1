@@ -1,25 +1,40 @@
 {
   "painting.cobbledecor.bubble_mew.title": "Bubble Mew",
   "painting.cobbledecor.bubble_mew.author": "RemisProductions",
+
   "painting.cobbledecor.charizard_flying.title": "Charizard Flying",
   "painting.cobbledecor.charizard_flying.author": "RemisProductions",
+
   "painting.cobbledecor.exeggutor_alolan.title": "Exeggutor Alolan",
   "painting.cobbledecor.exeggutor_alolan.author": "RemisProductions",
+
   "painting.cobbledecor.mega_dragonite.title": "Mega Dragonite",
   "painting.cobbledecor.mega_dragonite.author": "RemisProductions",
+
   "painting.cobbledecor.rowlet_vs_groudon.title": "Rowlet VS Groudon ",
   "painting.cobbledecor.rowlet_vs_groudon.author": "RemisProductions",
+
   "painting.cobbledecor.goomy_family.title": "Goomy Family",
   "painting.cobbledecor.goomy_family.author": "RemisProductions",
-  "painting.cobbledecor.latios_half.title": "Latios Half",
-  "painting.cobbledecor.goomy_family.author": "RemisProductions",
-  "painting.cobbledecor.latias_half.title": "Latias Half",
-  "painting.cobbledecor.goomy_family.author": "RemisProductions",
-  "painting.cobbledecor.psyduck_sleeping.title": "Psyduck Sleeping",
-  "painting.cobbledecor.goomy_family.author": "RemisProductions",
-  "painting.cobbledecor.bulbasaur_face.title": "Bulbasaur Face",
-  "painting.cobbledecor.goomy_family.author": "RemisProductions",
-  "painting.cobbledecor.goomy_face.title": "Goomy Face",
-  "painting.cobbledecor.goomy_family.author": "RemisProductions"
 
+  "painting.cobbledecor.latios_half.title": "Latios Half",
+  "painting.cobbledecor.latios_half.author": "RemisProductions",
+
+  "painting.cobbledecor.latias_half.title": "Latias Half",
+  "painting.cobbledecor.latias_half.author": "RemisProductions",
+
+  "painting.cobbledecor.psyduck_sleeping.title": "Psyduck Sleeping",
+  "painting.cobbledecor.psyduck_sleeping.author": "RemisProductions",
+
+  "painting.cobbledecor.goomy_face.title": "Goomy Face",
+  "painting.cobbledecor.goomy_family.author": "RemisProductions",
+
+  "painting.cobbledecor.bulbasaur_face.title": "Bulbasaur Face",
+  "painting.cobbledecor.bulbasaur_face.author": "RemisProductions",
+
+  "painting.cobbledecor.charmander_face.title": "Charmander Face",
+  "painting.cobbledecor.charmander_face.author": "RemisProductions",
+
+  "painting.cobbledecor.squirtle_face.title": "Squirtle Face",
+  "painting.cobbledecor.squirtle_face.author": "RemisProductions"
 }
