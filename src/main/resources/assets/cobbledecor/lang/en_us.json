@@ -27,7 +27,7 @@
   "painting.cobbledecor.psyduck_sleeping.author": "RemisProductions",
 
   "painting.cobbledecor.goomy_face.title": "Goomy Face",
-  "painting.cobbledecor.goomy_family.author": "RemisProductions",
+  "painting.cobbledecor.goomy_face.author": "RemisProductions",
 
   "painting.cobbledecor.bulbasaur_face.title": "Bulbasaur Face",
   "painting.cobbledecor.bulbasaur_face.author": "RemisProductions",
@@ -38,14 +38,11 @@
   "painting.cobbledecor.squirtle_face.title": "Squirtle Face",
   "painting.cobbledecor.squirtle_face.author": "RemisProductions",
 
-  "painting.cobbledecor.squirtle_face.title": "Squirtle Face",
-  "painting.cobbledecor.squirtle_face.author": "RemisProductions",
+  "painting.cobbledecor.cyndaquil_face.title": "Cyndaquil Face",
+  "painting.cobbledecor.cyndaquil_face.author": "RemisProductions",
 
   "painting.cobbledecor.chikorita_face.title": "Chikorita Face",
   "painting.cobbledecor.chikorita_face.author": "RemisProductions",
-
-  "painting.cobbledecor.cyndaquil_face.title": "Cyndaquil Face",
-  "painting.cobbledecor.cyndaquil_face.author": "RemisProductions",
 
   "painting.cobbledecor.totodile_face.title": "Totodile Face",
   "painting.cobbledecor.totodile_face.author": "RemisProductions",
@@ -107,24 +104,24 @@
   "painting.cobbledecor.sprigatito_face.title": "Sprigatito Face",
   "painting.cobbledecor.sprigatito_face.author": "RemisProductions",
 
-  "painting.cobbledecor.fuecoco_face.title": "fuecoco Face",
+  "painting.cobbledecor.fuecoco_face.title": "Fuecoco Face",
   "painting.cobbledecor.fuecoco_face.author": "RemisProductions",
 
   "painting.cobbledecor.quaxly_face.title": "Quaxly Face",
   "painting.cobbledecor.quaxly_face.author": "RemisProductions",
 
-  "painting.cobbledecor.smoliv.title": "Smoliv Face",
-  "painting.cobbledecor.smoliv.author": "RemisProductions",
+  "painting.cobbledecor.smoliv_face.title": "Smoliv Face",
+  "painting.cobbledecor.smoliv_face.author": "RemisProductions",
 
-  "painting.cobbledecor.litwick.title": "Litwick Face",
-  "painting.cobbledecor.litwick.author": "RemisProductions",
+  "painting.cobbledecor.litwick_face.title": "Litwick Face",
+  "painting.cobbledecor.litwick_face.author": "RemisProductions",
 
-  "painting.cobbledecor.drifloon.title": "Drifloon Face",
-  "painting.cobbledecor.drifloon.author": "RemisProductions",
+  "painting.cobbledecor.drifloon_face.title": "Drifloon Face",
+  "painting.cobbledecor.drifloon_face.author": "RemisProductions",
 
-  "painting.cobbledecor.minun.title": "Minun Face",
-  "painting.cobbledecor.minun.author": "RemisProductions",
+  "painting.cobbledecor.minun_face.title": "Minun Face",
+  "painting.cobbledecor.minun_face.author": "RemisProductions",
 
-  "painting.cobbledecor.plusle.title": "Plusle Face",
-  "painting.cobbledecor.plusle.author": "RemisProductions"
+  "painting.cobbledecor.plusle_face.title": "Plusle Face",
+  "painting.cobbledecor.plusle_face.author": "RemisProductions"
  }

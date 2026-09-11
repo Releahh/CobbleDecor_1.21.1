@@ -12,41 +12,34 @@
     "cobbledecor:bulbasaur_face",
     "cobbledecor:charmander_face",
     "cobbledecor:squirtle_face",
+    "cobbledecor:totodile_face",
+    "cobbledecor:cyndaquil_face",
+    "cobbledecor:chikorita_face",
+    "cobbledecor:treecko_face",
+    "cobbledecor:torchic_face",
+    "cobbledecor:mudkip_face",
+    "cobbledecor:turtwig_face",
+    "cobbledecor:chimchar_face",
+    "cobbledecor:piplup_face",
+    "cobbledecor:oshawott_face",
+    "cobbledecor:tepig_face",
+    "cobbledecor:snivy_face",
+    "cobbledecor:froakie_face",
+    "cobbledecor:fennekin_face",
+    "cobbledecor:chespin_face",
+    "cobbledecor:sobble_face",
+    "cobbledecor:scorbunny_face",
+    "cobbledecor:grookey_face",
+    "cobbledecor:popplio_face",
+    "cobbledecor:litten_face",
+    "cobbledecor:rowlet_face",
+    "cobbledecor:quaxly_face",
+    "cobbledecor:fuecoco_face",
+
     "cobbledecor:plusle_face",
     "cobbledecor:minun_face",
     "cobbledecor:drifloon_face",
     "cobbledecor:litwick_face",
-    "cobbledecor:smoliv_face",
-    "cobbledecor:quaxly_face",
-    "cobbledecor:fuecoco_face",
-    "cobbledecor:sprigatito_face",
-    "cobbledecor:popplio_face",
-    "cobbledecor:litten_face",
-    "cobbledecor:rowlet_face",
-    "cobbledecor:sobble_face",
-    "cobbledecor:scorbunny_face",
-    "cobbledecor:grookey_face",
-    "cobbledecor:froakie_face",
-    "cobbledecor:fennekin_face",
-    "cobbledecor:chespin_face",
-    "cobbledecor:oshawott_face",
-    "cobbledecor:tepig_face",
-    "cobbledecor:snivy_face",
-    "cobbledecor:turtwig_face",
-    "cobbledecor:chimchar_face",
-    "cobbledecor:piplup_face",
-    "cobbledecor:treecko_face",
-    "cobbledecor:torchic_face",
-    "cobbledecor:mudkip_face",
-    "cobbledecor:totodile_face",
-    "cobbledecor:cyndaquil_face",
-    "cobbledecor:chikorita_face"
-
-
-
-
-
-
-
+    "cobbledecor:smoliv_face"
   ]
 }
