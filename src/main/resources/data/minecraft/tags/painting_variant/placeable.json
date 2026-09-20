@@ -35,11 +35,20 @@
     "cobbledecor:rowlet_face",
     "cobbledecor:quaxly_face",
     "cobbledecor:fuecoco_face",
-
+    "cobbledecor:sprigatito_face",
     "cobbledecor:plusle_face",
     "cobbledecor:minun_face",
     "cobbledecor:drifloon_face",
     "cobbledecor:litwick_face",
-    "cobbledecor:smoliv_face"
+    "cobbledecor:smoliv_face",
+    "cobbledecor:espeon_icon",
+    "cobbledecor:flareon_icon",
+    "cobbledecor:glaceon_icon",
+    "cobbledecor:leafeon_icon",
+    "cobbledecor:sylveon_icon",
+    "cobbledecor:umbreon_icon",
+    "cobbledecor:vaporeon_icon",
+    "cobbledecor:jolteon_icon_face",
+    "cobbledecor:eevee_icon"
   ]
 }
