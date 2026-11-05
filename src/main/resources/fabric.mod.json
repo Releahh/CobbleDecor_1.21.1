@@ -22,7 +22,7 @@
 			"net.releah.cobbledecor.CobbleDecorDataGenerator"
 		],
 		"client": [
-			"net.releah.cobbledecor.CobbleDecorClient"
+			"net.releah.cobbledecor.registry.CobbleDecorClient"
 		]
 	},
 	"mixins": [

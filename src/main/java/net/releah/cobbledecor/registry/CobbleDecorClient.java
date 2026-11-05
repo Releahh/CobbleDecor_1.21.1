@@ -1,4 +1,4 @@
-package net.releah.cobbledecor;
+package net.releah.cobbledecor.registry;
 
 import net.fabricmc.api.ClientModInitializer;
 
